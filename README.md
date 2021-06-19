@@ -45,3 +45,63 @@ Recorded Videos => [ 0 From 120 ]
 - [ ] Soon
 - [ ] Soon
 - [ ] Soon
+
+### String And Array
+
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+
+### Function
+
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+
+### Pointers
+
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+
+### Object
+
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+- [ ] Soon
+
+### Soon
+
+### Soon
+
+### Soon
+
+### Soon
+
+### Soon
+
+### Soon
+
+### Soon
+
+### Soon
+
+### Soon
+
+### Soon
